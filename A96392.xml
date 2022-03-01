@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The contentious apostate re-charged.  Also an answer to the vicar of Milden-Hall's challenge.</title>
+            <author>Whitehead, George, 1636?-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96392</idno>
+            <idno type="STC">Wing W1921</idno>
+            <idno type="STC">ESTC R233555</idno>
+            <idno type="EEBO-CITATION">47683544</idno>
+            <idno type="OCLC">ocm 47683544</idno>
+            <idno type="VID">172999</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96392)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172999)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2661:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The contentious apostate re-charged.  Also an answer to the vicar of Milden-Hall's challenge.</title>
+                  <author>Whitehead, George, 1636?-1723.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Signed on p. 7: G. Whitehead.</note>
+                  <note>Imperfect: cropped, with loss of text.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bugg, Francis, 1640-1724? --  One blow more at New Rome.</term>
+               <term>Society of Friends --  Great Britain.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172999:1" rendition="simple:additions"/>
+            <head>THE <hi>Contentious Apoſtate</hi> RE-CHARGED. Alſo an Anſwer to the <hi>Vicar</hi> of <hi>Milden-Hall</hi>'s <hi>Challenge.</hi>
+            </head>
+            <epigraph>
+               <q>Out of thy own Mouth will I judge thee,
+<bibl>Luke 19.22.</bibl>
+               </q>
+            </epigraph>
+            <p>WHereas <hi>Francis Bugg,</hi> both before and ſince his Conformity to the Church of <hi>England,</hi> has buſied himſelf greatly in ſcribling and writing divers ſcurrillous and ſcandalous, railing and malicious Books and Pamphlets againſt the Miniſters and People called <hi>Quakers,</hi> who having hitherto juſtly defended them<g ref="char:EOLhyphen"/>ſelves againſt his Invectives; It is therefore now thought fit to <hi>Re-charge</hi> him with his own wicked, diſingenuous and perverſe dealing.</p>
+            <div n="1" type="charge">
+               <head>Charge I. <hi>That he the ſaid</hi> F. B. <hi>evidently appears to be a Backſlider and an Apoſtate from the Truth profeſſed by him for many years among the ſaid People, and ſince by him con<g ref="char:EOLhyphen"/>feſſed unto; Conſequently that he is a Self-condemned perſon.</hi>
+               </head>
+               <p>This Charge is evident by his own Confeſſion; To the <hi>Principle, Foundation, Doctrine, Miniſtry, Faith, Love, Unity, Spiritual Teſtimony</hi> of the ſaid People, <hi>as in the Beginning,</hi> as being <hi>that Church whereof Chriſt Jeſus was the Head and Law-giver,</hi> &amp;c. Conſequently, That the ſaid People, called <hi>Quakers,</hi> were once a true Church, the People of God, in the true Faith, and bore a true Teſtimony, according to <hi>F. B</hi>'s Ample and Solemn Confeſſion, in the ſecond part of his Book, Entit. <hi>De Chriſtiana Libertate,</hi> chap. 1. pag. 24, 25, 26, 27, <hi>&amp;c.</hi> printed in the year 1682. before his conformity. Which ſaid ſolemn Confeſſion in be<g ref="char:EOLhyphen"/>half of the ſaid <hi>People</hi> called <hi>Quakers,</hi> is largely ſeconded and confirm<g ref="char:EOLhyphen"/>ed by the ſaid <hi>F. B.</hi> himſelf, even in his Pamphlet, ſtiled, <hi>The Quakers
+<pb n="2" facs="tcp:172999:2"/>detected,</hi> printed in the year 1686. about two years after his Conform<g ref="char:EOLhyphen"/>ing, or <hi>Going to the Publick,</hi> as he calls it, <hi>p.</hi> 6. wherein alſo he largely confeſſeth, To the Truth of the ſaid People's <hi>Principle,</hi> (as in the be<g ref="char:EOLhyphen"/>ginning) <hi>Doctrine, Miniſtry, Diſpenſation, Chriſtian Love and Society for many years,</hi> and that <hi>God bleſſed their Meetings with the comfortable En<g ref="char:EOLhyphen"/>joyment of his Preſence,</hi> as may be ſeen more at large in his whole third Page of his ſaid Pamphlet, <hi>Quaker</hi>'s <hi>Detected.</hi>
+               </p>
+               <p>Now obſerve, That contrary to the Teſtimony, Doctrine and Mi<g ref="char:EOLhyphen"/>niſtry of the People, called <hi>Quakers,</hi> (which from the beginning was for <hi>Diſſenting</hi>) and to <hi>F. B</hi>'s. own Confeſſion thereunto, he is turned to the Prieſts and Church of <hi>England,</hi> and ſo conformed, and conſe<g ref="char:EOLhyphen"/>quently is a Self-condemned perſon, and therein acts and ſins againſt his own Conviction and Confeſſion; who alſo, though he calls <hi>
+                     <hi>Con<g ref="char:EOLhyphen"/>formity</hi> The Monſtrous Womb, de Chr. lib.</hi> p. 81. and confeſſeth <hi>That <hi>Conformity</hi> is a <hi>Monſter,</hi> conceived by the Great Whore Myſtery</hi>-Ba<g ref="char:EOLhyphen"/>bylon, <hi>p.</hi> 83. Yet in Self-contradiction he himſelf is ſince Conformed, and conſequently joyned to a <hi>Monſter;</hi> if Conformity be it. But he, and his Author, might have better diſtinguiſhed <hi>Conformity,</hi> than ren<g ref="char:EOLhyphen"/>der it all <hi>monſtrous</hi> without exception. He has not only diſdainfully writ againſt <hi>Conformity, Outward Preſcriptions, Forms, Orders, Decrees of Men, Canons, Rules, Laws, Outward Directories, Impoſitions,</hi> &amp;c. (<hi>i. e.</hi> in Church-Government and Diſcipline) in his ſeveral Books, as in his <hi>Q. Detect. B. Rams, One Blow,</hi> &amp;c. but has charged us with Apoſtacy therein; and turned from us on that pretence; yet in contradiction to himſelf is conformed to a Church and Miniſtry which have all theſe (<hi>i. e.</hi> Outward Preſcription, Forms, Orders, Decrees of Men, Canons, Rules, <hi>&amp;c.</hi>) in their Church-Government and Diſcipline, whilſt he can prove No unjuſt or unwarrantable Canons, Rules, Laws or Me<g ref="char:EOLhyphen"/>thods in our Church, either in Government or Diſcipline.</p>
+            </div>
+            <div n="2" type="charge">
+               <head>Charge II. <hi>That</hi> F. B. <hi>is a falſe Accuſer of the bleſſed Martyrs in charging that to be their Doctrine, which is none of theirs, but a groſs Perverſion, Forgery and Abuſe of his own, both againſt them and us called</hi> Quakers.</head>
+               <p>The Inſtance I return him for proof is this; In the ſecond part of his ſaid Book, <hi>de Chr. Lib.</hi> p. 123. l. 6, 7, 8. viz. <hi>Theſe, with all outward Works, be things indifferent, and may be uſed, and alſo left.</hi> Theſe <hi>F. Bugg</hi> has cited for Dr. <hi>Rob. Barnes</hi> his very words, who was a Martyr in K. <hi>Henry</hi> the Eighth's time; and becauſe I was conſcientiouſly diſſatiſ<g ref="char:EOLhyphen"/>fied with theſe words, as cited by <hi>F. B.</hi> ſo generally rendring <hi>
+                     <hi>All</hi> out<g ref="char:EOLhyphen"/>ward Works ſo indifferent,</hi> &amp;c. as having a tendency to Practical Ran<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> being ſo conſtrued in my<g ref="char:punc">▪</g> Book <hi>Judgment Fix<g ref="char:EOLhyphen"/>ed,</hi>
+                  <pb n="3" facs="tcp:172999:2"/>p. 259, 260. Hereupon <hi>F.B.</hi> exhibits ſeveral high Charges againſt me, both notoriouſly falſe and reproachful; As, 1. That <hi>G. W. calls the Do<g ref="char:EOLhyphen"/>ctrine of Dr.</hi> Rob. Barnes <hi>(who ſuffered Martyrdom for the Cauſe of Chriſt) corrupt Doctrine tending to practical Ranteriſm.</hi> 2. Inſinuating by way of Queſtion, That <hi>'tis a ſign that</hi> G. W. <hi>is popiſhly affected.</hi> 3. <hi>That herein he appears like his Brother deceaſed,</hi> viz. <hi>bloody</hi> Bonner. 4. <hi>That they reſemble each other as if they were Twins,</hi> B. Rams, p. 21. Q. 5. And in the Margent, affirms them <hi>to be the words of Dr.</hi> Barnes (<hi>viz.</hi> as cited by <hi>F. B.</hi> and oppoſed by <hi>G. W.</hi>) bidding the Reader <hi>ſee the</hi> 298. <hi>page in Dr.</hi> Barnes <hi>his Book,</hi> Entituled, <hi>Mens Conſtitutions not ground<g ref="char:EOLhyphen"/>ed upon Scripture, bind not Conſcience,</hi> &amp;c. <hi>Verbatim.</hi>
+               </p>
+               <p>Which Book of Dr. <hi>Barnes</hi> I have ſince ſeen, and over and over view<g ref="char:EOLhyphen"/>ed the page and place pretended to be quoted by <hi>F. B.</hi> and find he hath ſhamefully wronged Dr. <hi>Barnes,</hi> and groſly and falſly defamed me, as I'll ſhew preſently: Only hear his further Charge againſt me on the ſame Subject, <hi>viz. That he</hi> (i. e. G. W.) <hi>is a falſe Accuſer of the bleſſed Martyrs, charging their Doctrine to be corrupt, tending to practical Rante<g ref="char:EOLhyphen"/>riſm, and thereby ſiding with the Papiſts againſt the Proteſtants. <hi>One Blow more,</hi>
+                  </hi> p. 2.</p>
+               <p>What a ſad and fearful Charge is this! 'Tis the Lowdeſt, the Grim<g ref="char:EOLhyphen"/>meſt, and Fierceſt in all the Parcels of his ſlanderous and black De<g ref="char:EOLhyphen"/>famations. If I were not aſſured in my own Conſcience of my own Innocency and Clearneſs, from theſe Infamies and Scandals, and of God's ſpecial Providence and Protection; I might fear or ſuſpect, that thereby the rude Multitude might be inſenſed againſt me to fall upon me, as <hi>an Enemy to the bleſſed Martyrs and Proteſtants, and Confede<g ref="char:EOLhyphen"/>rate with the Papiſts againſt them.</hi> But the notorious Falſhood (as well as deadly Malice) of both, and my Innocency will appear upon a juſt and ſtrict Enquiry. 1. If I did not accuſe the bleſſed Martyrs. 2. Nor ſo charge their Doctrine, nor the Doctrine of any of them that's againſt Popery; as I am ſure I did not, nor ever intended it, but only the corrupt Doctrine, Forgery and Perverſion of <hi>Fra. Bugg,</hi> (as I believed it was, and ſo it proves) Then I am clear from his a<g ref="char:EOLhyphen"/>buſive Charge, and conſequently it is falſe, malicious, wicked and groſly ſcandellous. But I am innocent and clear in this matter, <hi>&amp;c.</hi> Come <hi>F. B.</hi> to the <hi>Original</hi> Occaſion; Art thou ſure thou haſt not miſ-repreſented or miſ-cited the ſaid Martyr <hi>Robert Barnes</hi> in the words before? Shall I take it as <hi>Thy</hi> Anſwer, That they are his words <hi>Ver<g ref="char:EOLhyphen"/>batim,</hi> as thou haſt Cited them, as before, thus, <hi>viz.</hi> That <hi>Theſe with all outward Works, be things indifferent, and may be uſed, and alſo left?</hi> I am ſure, as thus cited in General rendring, <hi>All outward Works ſo in<g ref="char:EOLhyphen"/>different, as that they may be uſed, and alſo left;</hi> without any diſtin<g ref="char:EOLhyphen"/>guiſhing Word or Particle after the word <hi>All</hi> or <hi>Works,</hi> they are
+<pb n="4" facs="tcp:172999:3"/>not coherent either with the Title or precedent Paſſages of the ſaid Martyr in his Book, and place aforeſaid, wherein he prefers <hi>the Holy Scripture, the Law of God, his Word, his Precepts and Judgments (as binding, to be kept and walked in)</hi> before <hi>men's Conſtitutions</hi> and <hi>Tradi<g ref="char:EOLhyphen"/>tions,</hi> either <hi>not Grounded</hi> thereupon, or <hi>Contrary</hi> thereunto (therefore not binding). Whence it clearly follows, and that according to the ſaid Martyr's ſence, That <hi>All</hi> ſuch outward Works, as God's Word and Law requires, or forbids, be not things Indifferent that may be uſed, and alſo left. But the ſaid Martyr <hi>Robert Barnes,</hi> treating of ſuch things as are Indifferent in their own Nature, gives theſe Inſtan<g ref="char:EOLhyphen"/>ces for diſtinction, <hi>viz.</hi> 
+                  <q>As to eat Fleſh or Fiſh, this or that Day is indifferent and free;
+<note n="*" place="margin">
+                        <hi>Note, That all theſe Lines beginning at the words</hi> [Alſo to go] <hi>and ending with the words</hi> [Beard or not] <hi>are left out in</hi> F.B.<hi>'s. Citation, and alſo that material diſtin<g ref="char:EOLhyphen"/>guiſhing word</hi> [Such] <hi>be<g ref="char:EOLhyphen"/>fore</hi> [Outward Works] <hi>in the Sentence in Con<g ref="char:EOLhyphen"/>troverſy, which alſo is not noted in his Book with Comma's at the Line's ends as other parts of his Citation is. If it be ſaid</hi> F. B<hi>'s leaving out the Particle <hi>[Such]</hi> is but a ſmall Omiſſion. 'Tis ſuch an Omiſſion as greatly corrupts and al<g ref="char:EOLhyphen"/>ters the ſence of the whole Sentence. So</hi> [Some] <hi>and</hi> [All,] [is] <hi>and</hi> [Not,] <hi>are but ſmall Par<g ref="char:EOLhyphen"/>ticles, yet vaſtly differ, and relative to contrary matters, as put in conjunction with them. Nor can be excauſe his perverſion in leaving out <hi>[Such]</hi> as an Omiſſion or Miſtake in himſelf, or the Printer, becauſe he has ſince grounded a ſevere Charge againſt me (upon his falſe Citation) both in Print, Words and Writing, and 'tis not noted in his</hi> Errata <hi>as the Printer's Fault.</hi>
+                     </note> Alſo to go in this Rayment of this Colour, or that Colour; To ſhave our Heads, or not; a Prieſt to wear a long Gown, or a ſhort; a Grey Fry<g ref="char:EOLhyphen"/>ar to wear a Grey Coat, or a Ruſſet; a White Fryar to wear a White, or a Black; a Prieſt to Marry, or not to Marry; an Hermit to have a Beard, or not; <hi>Theſe with all <hi>Such</hi> outward Works be things indifferent, and may be uſed, and alſo left.</hi>
+                  </q>
+               </p>
+               <p>Thus far I have truly cited the ſaid Martyr, Dr. <hi>R. Barnes, verbatim,</hi> in the very Book and page of his before-mentioned, in that part, Entit. <hi>Men</hi>'s <hi>Conſtitutions,</hi> &amp;c. f. 298. quoted by <hi>F. Bugg,</hi> but unjuſtly and falſly cited by him in his leaving out the very word <hi>[Such]</hi> before <hi>[outward works]</hi> which <hi>F. B</hi>'s ſo leaving <hi>Such</hi> out, quite corrupts the matter, alters and varies from the ſenſe of Dr. <hi>Barnes</hi> his words, as coherently and rationally writ by him expreſly relative to thoſe his fore-going words about Works meerly indifferent, and not binding one way or a<g ref="char:EOLhyphen"/>nother, which he treated of in appoſition to Popery and Superſtition thereof.</p>
+               <p>Now Ingenuous Reader, pray pleaſe to obſerve from the Premiſes, That I, <hi>G.W.</hi> (the perſon unjuſtly charged and maliciouſly reproached by <hi>F. B.</hi>) 1. have not accuſed (much leſs falſly accuſed) the bleſſed Martyrs. 2. That I have not charged their Doctrine to be corrupt. 3. Much leſs tending to Practical Ranteriſm. 4. That I have not ſi<g ref="char:EOLhyphen"/>ded with the Papiſts, nor do I ſide with them againſt the Proteſtants.
+<pb n="5" facs="tcp:172999:3"/>5. Neither have I at any time called the Doctrine of the ſaid Martyr corrupt Doctrine, or tending to any Ranteriſm; but <hi>F. B</hi>'s corrupt Doctrine and groſs Perverſion in his foul abuſe of the ſaid <hi>Martyr</hi>'s words. 6. Neither am I popiſhly affected, my Conſcience bears me Record in the ſight of God. 7. Nor ever was <hi>bloody Bonner</hi> my <hi>Bro<g ref="char:EOLhyphen"/>ther.</hi> 8. Nor is there any <hi>Similitude</hi> or <hi>Reſemblance</hi> between us. As <hi>F. B.</hi> has charged and inſinuated theſe groſs things (being taken in the Affirmative) againſt me, they amount to ſo many groſs Lyes, Defama<g ref="char:EOLhyphen"/>tions and Slanders, moſt unjuſtly to criminate and render me odious.</p>
+            </div>
+            <div n="3" type="charge">
+               <head>Charge III. <hi>That the ſaid</hi> F. B. <hi>is neither Conſcientious, Re<g ref="char:EOLhyphen"/>ligious, nor Ingenuous in Writing and Divulging Books and Pamphlets against the</hi> Quakers (ſo called) <hi>For that he makes no Conſcience of writing ſcurrillous malicious Lyes, notorious odious Forgeries and Slanders, to Reproach, Vili<g ref="char:EOLhyphen"/>fie, Criminate and Defame others, namely <hi>Vs,</hi> whom he Envies moſt.</hi>
+               </head>
+               <p>For particular Inſtances to Evince this Charge, (his malicious Lyes and Slanders being very numerous) I ſhall give a Catalogue of ſome of them truly Collected out of his own Pamphlets and Words (writ ſince his Conformity) as followeth.</p>
+               <div type="part">
+                  <head>In his <hi>Battering Ramms againſt New Rome,</hi> He ſaith, <hi>viz.</hi>
+                  </head>
+                  <p n="1">1. <hi>Their Zeal for their unwritten Traditions above the Scriptures,</hi> Intro<g ref="char:EOLhyphen"/>duction <hi>p.</hi> 1.</p>
+                  <p n="2">2. <hi>The National</hi> (i. e. <hi>Preachers) taking Tythes and other Dues as a ſet<g ref="char:EOLhyphen"/>led Maintenance,</hi> &amp;c.—<hi>is not ſo burthenſome, as you are to many of your hearers,</hi> p. 11. three laſt lines.</p>
+                  <p n="3">3. <hi>All this while value your ſelves upon your free preaching,</hi> &amp;c.—<hi>You know 'tis common for all theſe Church Officers <hi>among you</hi> to take money.</hi>—Some Fifty pounds <hi>per Annum,</hi> p. 12. l. 5, 6, 7, 10.</p>
+                  <p n="4">4. <hi>And</hi> George Fox <hi>himſelf—had no leſs than Twelve or Thir<g ref="char:EOLhyphen"/>teen hundred pounds,</hi> p. 12. l. 15, 16, 17.</p>
+                  <p n="5">5. <hi>Your way is, when your Caſh grows low, to Iſſue out a General Epi<g ref="char:EOLhyphen"/>ſtle for—your own ſervice—for money—'tis a great Encourage<g ref="char:EOLhyphen"/>ment to your Preachers and Paraſites,</hi> p. 12. l. 27, 28, 29, 30, 31, 32.</p>
+                  <p n="6">6. <hi>When this Collection is made</hi>—G. F. <hi>and a few of his party diſpoſe of it as they ſee meet, and no doubt but much, if not moſt of it is given to ſuch as are for carrying on your deſigns, but <hi>No</hi> account returned to the do<g ref="char:EOLhyphen"/>nors of this money,</hi> p. 12. l. 35, 36, 37, 38.</p>
+                  <p n="7">
+                     <pb n="6" facs="tcp:172999:4"/> 7. <hi>Your Grand Hypocriſie ſtands chiefly in this, That you take Mony, Gifts and Rewards for Preaching, Teaching,</hi> &amp;c. <hi>and at the ſame time pretend to do all theſe freely,</hi> &amp;c. p. 12. laſt four lines.</p>
+                  <p n="8">8. Thomas Ellwood <hi>makes an Apollogy for his Brethrens taking money for preaching,</hi> p. 13. l. 6. <hi>I have to mention</hi> Thomas Ellwood's <hi>Apology for his Brethren-Hirelings taking money for preaching, by which we may know what Herd he belongs to,</hi> p. 13. l. 37, 38, 39. <hi>This conceited Scribe and proud Phariſee,</hi> Thomas Ellwood, <hi>to reſcue the decaying Reputation of</hi> G.F. <hi>and</hi> G. W.—<hi>in Verſe makes an Apology for his Brethren's taking money for preaching,</hi> p. 14. l. 1, 2, 3, 4.</p>
+                  <p n="9">9. <hi>I mean Guilty, in that they always pretend to preach, teach, write, ſuf<g ref="char:EOLhyphen"/>fer,</hi> &amp;c.—<hi>freely, but yet contrary to All theſe their pretenſions, have <hi>All along</hi> taken money for the ſame,</hi> p. 14. l. 7, 8, 9. [This groſs Lye a<g ref="char:EOLhyphen"/>gainſt Us, <hi>F. B.</hi> hath contradicted himſelf, to his own Condemnation, in his <hi>One Blow more,</hi> p. 5. Artic. 3. where he confeſſeth] <hi>That in the beginning</hi> G. Whitehead <hi>and many others came thorow the Country in plain Habit, walking on foot, content with mean Accommodation, apt to Teach, <hi>not</hi> given to filthy Lucre, often viſiting the ſick, the poor as well as the rich, working often on their Trades that they might not be chargeable.</hi>
+                  </p>
+                  <p n="10">10. <hi>'Tis you, who pretend to take no money for preaching, that take it privately, yea even ſo privately, that the very Donors do not know that you take money for preaching. Thus <hi>Ieſuite-like</hi>—have you blinded your people,</hi> p. 14. (d) Margent.</p>
+                  <p n="11">11. —<hi>You ſupply them with money to proceed, but it is to whom and when</hi> G.F. G. W. <hi>&amp;c. think it fit and expedient,</hi> p. 14. Mar<g ref="char:EOLhyphen"/>gent (e).</p>
+                  <p n="12">12. <hi>Your decrying <hi>All Learning,</hi>
+                     </hi> p. 15. Ninth Inſtance.</p>
+                  <p n="13">13. <hi>As</hi> George Whitehead <hi>did</hi> (i. e. Rail) <hi>of the Doctrine of Dr.</hi> Ro<g ref="char:EOLhyphen"/>bert Barnes, <hi>who called <hi>It</hi> corrupt Doctrine, tending to Ranteriſm,</hi> p 23. 1. 8, 9. Margent.</p>
+               </div>
+               <div type="part">
+                  <head>Here follows ſome of <hi>F. B</hi>'s defaming and abuſive Treatment, Railery, unjuſt Compariſons and Characters, caſt upon Us in his ſaid Pamphlet, <hi>B. Rams, viz.</hi>
+                  </head>
+                  <p n="14">14. <hi>New Rome. Grand Hypocriſie,</hi> Title page.—<hi>Such Legerdemain as few Conjurers have the face to venture upon,</hi> p. 4. <hi>Ye groſs Diſſemblers—Your Doctrine of <hi>Non-aſſiſtance,</hi>
+                     </hi> p. 5. <hi>Perfideous and Treacher<g ref="char:EOLhyphen"/>ous,</hi> p. 9. <hi>The Teachers and Leaders <hi>of the Quakers</hi> reſembling their Elder Brethren the Papiſts,</hi> p. 10. <hi>O groſs Diſſemblers, yea Impoſters, ſuch a Generation of Self-conceited Phariſees, as no Age ever before this Produced.—Arrant Cheats indeed—Deceitful and Treacherous, Your Tyran<g ref="char:EOLhyphen"/>ny,</hi> p. 14. <hi>As great a Juggle, Trick and Sham as ever was uſed by <hi>Ma<g ref="char:EOLhyphen"/>homet,</hi>
+                        <pb n="7" facs="tcp:172999:4"/>or among the Papiſts—Holy Cheat,</hi> p. 23. <hi>Popery. New Rome. Cunning and Crafty. New Church Government. Impoſing. Errors, Inno<g ref="char:EOLhyphen"/>vations and Grand Hypocriſies as ever,</hi> p. 28.</p>
+               </div>
+               <div type="part">
+                  <head>Here follow ſome of his notorious Lyes in his <hi>One Blow more.</hi>
+                  </head>
+                  <p n="1">1. <hi>One <hi>Sober</hi> woman, whom they commonly thruſt out, and ſometimes keeps her priſoner,</hi> p. 2.</p>
+                  <p n="2">2. <hi>That he</hi> (G. W.) <hi>was aſhamed of his partner</hi> S.C. p. 2.</p>
+                  <p n="3">3. <hi>He refuſed to own, either in part, or the whole</hi> (i. e. <hi>the Book Judg<g ref="char:EOLhyphen"/>ment Fixed</hi>) p. 2.</p>
+                  <p n="4">4. <hi>Our new ſort of Popery,</hi> p. 3. l. 11.</p>
+                  <p n="5">5. <hi>That</hi> W. G. <hi>was Timerous and Cowardly,</hi> p. 3. l. 17.</p>
+                  <p n="6">6. <hi>They write what they are aſhamed to own—theſe Deluders,</hi> &amp;c. p. 3. l. 27, 28.</p>
+                  <p n="7">7. <hi>Now they teach contrary</hi> (i. e. <hi>to what in the beginning they taught</hi>) p. 4. Artic. 1.</p>
+                  <p n="8">8. <hi>But now they can take</hi> 50 <hi>l.</hi> per Annum—<hi>I ſay—their Miniſters take money for preaching,</hi> p. 6. Art. 4.</p>
+                  <p n="9">9. <hi>Or he</hi> (G. W.) <hi>would never Excuſe or Juſtifie ſuch manifest Idola<g ref="char:EOLhyphen"/>try and Blaſphemy</hi> (implying he doth) p. 7. l. 40.</p>
+                  <p n="10">10. <hi>Your cunning Evaſions, Quibbles and Jeſuitical Reſerves—Dens and Lurking places, where you lye skulking to deceive the ſimple,</hi> p. 8. l. 1, 4, 5.</p>
+                  <p n="11">11. <hi>Their Anſwer to <hi>Battering Rams.</hi>
+                     </hi> G. W. <hi>will not own it,</hi> p. 10. l. 17, 19.</p>
+                  <p n="12">12. <hi>That</hi> S. Fiſher <hi>ſaid,</hi> viz. <hi>he believed or expected, That the People called</hi> Quakers, <hi>would be Inſtrumental by force (with others) to turn out, or overturn the then Government. And that this he ſpake to Mr.</hi> Oſgood, <hi>&amp;c.</hi> p. 10. Margent.</p>
+                  <p n="13">13. <hi>Their valuing their own Unwrit Traditions above the Scriptures,</hi> p. 12. l. 39.</p>
+                  <p>Theſe we return back, and lay at <hi>F. B</hi>'s door, as being ſome of his notorious and malicious Lyes and Forgeries, with utter deteſtation againſt them, and that falſe and treacherous Spirit from whence they came; not doubting but the Righteous Judge of All (to whom we ap<g ref="char:EOLhyphen"/>peal againſt them and it) will plead with him, and rebuke his En<g ref="char:EOLhyphen"/>vy againſt his Truth and Servants, in whoſe behalf and vindication I have been, and a conſtrained to appear.</p>
+               </div>
+            </div>
+            <closer>
+               <dateline>London, <date>the 12th of the 8th Month, 1691.</date>
+               </dateline> 
+               <signed>G. WHITEHEAD.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="8" facs="tcp:172999:5"/>
+            <head>POSTSCRIPT.</head>
+            <opener>
+               <salute>REader,</salute>
+            </opener>
+            <p>pleaſe to take notice, That the chief (or greateſt part) of the foregoing foul Defamations, Slanders, <hi>&amp;c.</hi> now Recharged upon the Author of them, are Detected and Refuted in our Anſwers to him; The one Entituled, <hi>Innocency against Envy.</hi> And the other, <hi>The Contentious Apoſtate and his Blow Refelled:</hi> And in this brief Ad<g ref="char:EOLhyphen"/>dition, wherein he is Recharged. Some may wonder why I do be<g ref="char:EOLhyphen"/>ſtow ſo much Labour to Anſwer ſuch a diſingenuous ſcornful Perſon, that makes no more Conſcience of what he writes and publiſhes to de<g ref="char:EOLhyphen"/>fame others, and will not ſee when he is Anſwered and Refuted, nor acknowledged his apparent Errors, and reproachful Falſhoods, but in<g ref="char:EOLhyphen"/>ſtead thereof ſtill add more, and evade Matters of Argument that pinch him, where he is not able to give a Rational Reply. I confeſs my Endeavours ſeem fruitleſs as to himſelf; and if it were not that the Truth is concerned, he might Mock on, Rail on, Lye and Forge on againſt me, and I could eaſily paſs it by with Silence and Pati<g ref="char:EOLhyphen"/>ence, till the Lord ariſe to plead my Cauſe, as I doubt not but he will do for his Name's ſake.</p>
+            <p>And Reader, obſerve in the ſaid <hi>Contentious Apostate and his Blow Re<g ref="char:EOLhyphen"/>felled,</hi> page 3. l. 11. to read [<hi>And <hi>he</hi> into the Gallery</hi>] the word <hi>He</hi> being omitted, varies from the Senſe intended, though in ſome it was cor<g ref="char:EOLhyphen"/>rected after printed, but in others omitted.</p>
+            <p>To the <hi>Vicar</hi> of <hi>Milden Hall</hi>'s <hi>Challenge,</hi> which <hi>F. Bugg</hi> boaſts of, <hi>To ſhew him a preſident for womens diſtinct meetings <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>art from the men.</hi> I anſwer, 1. That there were <hi>Deaconeſſes</hi> in the primitive times, he grants. 2. He neither argues nor brings any preſident to prove it unlawful for ſuch <hi>Deaconeſſes</hi> to meet diſtinct. 3. There were ſuch godly Elder-women and Widows in the Primitive Church, as were given to <hi>Prayer and Supplication,</hi> and concerned in a Goſpel Miniſtry, <hi>as Teachers of good things,</hi> to <hi>Inſtruct the younger women,</hi> and ſuch <hi>Deaconeſſes</hi>
+               <note n="*" place="margin">Rom. 16.1 Tim. 5. Titus 2 and</note>as did alſo <hi>Miniſter to the Saints,</hi> and took care of (and attended) the Sick and Impotent<note n="†" place="margin">H. Clapham<hi>'s Brief of the Bible's Hiſtory, f.</hi> 171. <hi>Printed in</hi> 1608.</note>, and who in their old Age were (to a conſiderable number) taken ſpecial care by the Church; Therefore 'twas lawful for them, and ſuch ſometims to meet together apart from the men, in order to diſ<g ref="char:EOLhyphen"/>charge ſuch their Chriſtian Duties. 4. And for <hi>a Preſident for Women's diſtinct Meetings,</hi> 
+               <q>There was a certain Meeting of <hi>Women</hi> in the City of <hi>Blois,</hi> who met together to comfort and edifie one another, and to pray one with and for another, to the number of Nine, or thereabouts, with their Daughters, without a Miniſter (or Prieſt) to preach to them. And theſe Religious Women ſuffered Martyrdom.</q> This is a plain Preſident, as may be ſeen more at large in the third Volt me of <hi>Martyrs,</hi> f. 891. c. 2. new Impreſſion.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
